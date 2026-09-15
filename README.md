@@ -14,7 +14,9 @@
 - **Cara Kerja: Data disimpan dalam bentuk pasangan key (kunci/label) dan value (nilai/isi data) yang dipisahkan oleh tanda titik dua (:), serta ditutup dengan kurung kurawal {}. Pada awal program, dictionary ini diisi dengan tiga pasangan data:<br>
       - Key "judul" dengan value "Cantik Itu Luka"<br>
       -Key "penulis" dengan value "Eka Kurniawan"<br>
-      -Key "Tahun_Terbit" dengan value 2002**
+      -Key "Tahun_Terbit" dengan value 2002<br>
+Dan tanda koma (,) digunakan sebagai pemisah antar data dalam Dictionary. Koma diperlukan agar Python dapat mengenali bahwa satu pasangan key dan value sudah selesai dan dilanjutkan dengan data berikutnya.**
+  
 
 # **2.while True**
 
